@@ -14,11 +14,11 @@ public class BlueActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(new DemoDrawingView(this));
+        setContentView(new BlueActivityView(this));
     }
 
-    static class DemoDrawingView extends View {
-        public DemoDrawingView(Context context) {
+    static class BlueActivityView extends View {
+        public BlueActivityView(Context context) {
             super(context);
         }
 
