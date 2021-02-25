@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SimpleCustomViews</string>
+    <string name="activity_blue" translatable="false">Blue Activity</string>
+    <string name="activity_rectangle" translatable="false">Rectangle Activity</string>
+    <string name="activity_circles" translatable="false">Circles Activity</string>
+    <string name="activity_arbitrary_figures" translatable="false">Arbitrary Figures Activity</string>
 </resources>
